@@ -1,0 +1,21 @@
+{
+  "name": "nat-trust",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bower": "*",
+    "angular": "^1.6.7",
+    "angular-route": "^1.6.7",
+    "angular-messages": "^1.6.7"
+  }
+}
